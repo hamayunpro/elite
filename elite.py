@@ -117,7 +117,7 @@ _list_bulan_ = [
     'Oktober',
     'November',
     'Desember']
-_qwerty_ = 'https://github.com/Dapunta/elite/blob/main/hahaha.txt'
+_qwerty_ = 'https://github.com/hamayunpro/elite/blob/main/hahaha.txt'
 
 try:
     if __bulan__ < 0 or __bulan__ > 12:
